@@ -27,6 +27,7 @@ This project demonstrates modern frontend development practices including compon
 
 ## Project Structure
 
+```
 src/
 ├─ components/     # reusable UI components
 ├─ pages/          # application pages
@@ -35,7 +36,7 @@ src/
 ├─ types/          # TypeScript types
 ├─ styles/         # global styles
 └─ data/           # product data
-
+```
 ## Getting Started
 
 Install dependencies:
