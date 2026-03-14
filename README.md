@@ -27,14 +27,14 @@ This project demonstrates modern frontend development practices including compon
 
 ## Project Structure
 
-src
- ├ components      reusable UI components
- ├ pages           application pages
- ├ store           state logic
- ├ utils           helper functions
- ├ types           TypeScript types
- ├ data            product data
- └ styles          global styles
+src/
+├─ components/     # reusable UI components
+├─ pages/          # application pages
+├─ store/          # state management (Zustand)
+├─ utils/          # helper functions
+├─ types/          # TypeScript types
+├─ styles/         # global styles
+└─ data/           # product data
 
 ## Getting Started
 
